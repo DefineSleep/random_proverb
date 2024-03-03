@@ -13,4 +13,4 @@ you will need to install this pyqt5 for it to work as intended
 (pip install pyqt5)
 
 if anyone wants to make a .exe that would be nice !
-(i dont want to touch windows with a 10feet pole)
+(i dont want to touch windows with a 10 foot pole)
